@@ -1,5 +1,5 @@
 #tensorflow~=2.11.0
-tensorflow==1.16.1
+tensorflow==2.16.1
 numpy~=1.24.4
 pandas~=2.0.3
 alibi~=0.9.6
